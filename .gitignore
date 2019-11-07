@@ -10,3 +10,4 @@ discountbot/__pycache__/settings.cpython-37.pyc
 discountbot/__pycache__/__init__.cpython-37.pyc
 db.sqlite3
 tracker/__pycache__/urls.cpython-37.pyc
+tracker/__pycache__/forms.cpython-37.pyc
